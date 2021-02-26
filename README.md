@@ -248,17 +248,9 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+
 <table>
   <tr>
     <td align="center"><a href="http://facebook.com/9inpachi"><img src="/assets/images/rsz_whatsapp_image_2020-06-21_at_104836_am.jpg" width="100px;" alt=""/><br /><sub><b>Joy Sinha</b></sub></a><br /><a href="#ideas-9inpachi" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/saadpasta/developerFolio/commits?author=9inpachi" title="Code">💻</a></td>
 </table>
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
----
