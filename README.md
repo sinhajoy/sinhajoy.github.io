@@ -241,6 +241,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <table>
   <tr>
-    <td align="center"><a href="http://facebook.com/9inpachi"><img src="/assets/images/rsz_whatsapp_image_2020-06-21_at_104836_am.jpg" width="100px;" alt=""/><br /><sub><b>Joy Sinha</b></sub></a><br /><a href="#ideas-9inpachi" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/saadpasta/developerFolio/commits?author=9inpachi" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/joysinha/"><img src="/assets/images/rsz_whatsapp_image_2020-06-21_at_104836_am.jpg" width="100px;" alt=""/><br /><sub><b>Joy Sinha</b></sub></a><br /><a href="#ideas-9inpachi" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/saadpasta/developerFolio/commits?author=9inpachi" title="Code">💻</a></td>
 </table>
 
