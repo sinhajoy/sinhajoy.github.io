@@ -84,7 +84,7 @@ $ npm install
 $ npm start
 ```
 
-## Linking Portfolio to Github
+## Linking Portfolio to Github & Linkdin
 
 Generate a Github personal access token following these [instructions](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) (make sure you don't select any scope just generate a simple token).
 
